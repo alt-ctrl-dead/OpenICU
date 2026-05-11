@@ -1,0 +1,168 @@
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {
+  id             Int       @id @default(autoincrement())
+  name           String    @default("")
+  email          String    @unique
+  phone          String?
+  caregiverName  String?
+  consentContact Boolean   @default(false)
+  passwordHash   String    @default("")
+  reservations   BedReservation[]
+  payments       Payment[]
+  ambulanceReqs  AmbulanceRequest[]
+  lastLat        Float?
+  lastLng        Float?
+  createdAt      DateTime  @default(now())
+  updatedAt      DateTime  @updatedAt
+}
+
+model Hospital {
+  id             Int       @id @default(autoincrement())
+  name           String
+  shortName      String?
+  category       String    @default("Private")
+  type           String    @default("Multispecialty")
+  area           String
+  city           String    @default("Bengaluru")
+  fullAddress    String
+  pincode        String?
+  landmark       String?
+  phone          String?
+  emergency      String?
+  email          String?
+  website        String?
+  rating         Float     @default(4.0)
+  reviewCount    Int       @default(0)
+  totalBeds      Int       @default(0)
+  icuBeds        Int       @default(0)
+  verified       Boolean   @default(false)
+  latitude       Float?
+  longitude      Float?
+  imageUrl       String?
+  departments    String?
+  facilities     String?
+  timings        String?
+  lastUpdatedAt  DateTime  @default(now())
+  beds           BedInventory[]
+  reservations   BedReservation[]
+  createdAt      DateTime  @default(now())
+  updatedAt      DateTime  @updatedAt
+}
+
+model BedInventory {
+  id                  Int       @id @default(autoincrement())
+  hospitalId          Int
+  hospital            Hospital  @relation(fields: [hospitalId], references: [id])
+  bedType             String
+  totalBeds           Int       @default(0)
+  availableBeds       Int       @default(0)
+  ventilatorAvailable Boolean   @default(false)
+  status              String    @default("live")
+  lastUpdatedAt       DateTime  @default(now())
+}
+
+model BedReservation {
+  id                 Int       @id @default(autoincrement())
+  reservationCode    String    @unique
+  userId             Int
+  user               User      @relation(fields: [userId], references: [id])
+  hospitalId         Int
+  hospital           Hospital  @relation(fields: [hospitalId], references: [id])
+  bedType            String
+  urgency            String
+  medicalSituation   String?
+  issueDescription   String?
+  patientCity        String?
+  patientArea        String?
+  patientAddress     String?
+  patientLandmark    String?
+  latitude           Float?
+  longitude          Float?
+  status             String    @default("payment_pending")
+  expiresAt          DateTime?
+  uploads            MedicalUpload[]
+  payment            Payment?
+  createdAt          DateTime  @default(now())
+  updatedAt          DateTime  @updatedAt
+}
+
+model MedicalUpload {
+  id             Int       @id @default(autoincrement())
+  reservationId  Int
+  reservation    BedReservation @relation(fields: [reservationId], references: [id])
+  fileName       String
+  fileType       String
+  uploadType     String
+  fileUrl        String?
+  createdAt      DateTime  @default(now())
+}
+
+model Payment {
+  id             Int       @id @default(autoincrement())
+  paymentCode    String    @unique
+  userId         Int
+  user           User      @relation(fields: [userId], references: [id])
+  reservationId  Int       @unique
+  reservation    BedReservation @relation(fields: [reservationId], references: [id])
+  amount         Int
+  currency       String    @default("INR")
+  method         String
+  status         String    @default("mock_success")
+  createdAt      DateTime  @default(now())
+}
+
+model AmbulanceProvider {
+  id             Int       @id @default(autoincrement())
+  providerName   String
+  vehicleType    String
+  city           String    @default("Bengaluru")
+  area           String
+  etaMinutes     Int
+  status         String    @default("available")
+  phone          String?
+  latitude       Float?
+  longitude      Float?
+  lastUpdatedAt  DateTime  @default(now())
+  requests       AmbulanceRequest[]
+}
+
+model AmbulanceRequest {
+  id                    Int       @id @default(autoincrement())
+  requestCode           String    @unique
+  userId                Int?
+  user                  User?     @relation(fields: [userId], references: [id])
+  providerId            Int?
+  provider              AmbulanceProvider? @relation(fields: [providerId], references: [id])
+  purpose               String
+  ambulanceType         String
+  pickupCity            String?
+  pickupArea            String?
+  pickupAddress         String?
+  pickupLandmark        String?
+  destinationType       String?
+  destinationHospitalId Int?
+  destinationAddress    String?
+  status                String    @default("dispatch_requested")
+  createdAt             DateTime  @default(now())
+  updatedAt             DateTime  @updatedAt
+}
+
+model AuditEvent {
+  id             Int       @id @default(autoincrement())
+  eventType      String
+  actorType      String
+  actorId        Int?
+  entityType     String
+  entityId       Int?
+  message        String
+  metadata       String?
+  createdAt      DateTime  @default(now())
+}
