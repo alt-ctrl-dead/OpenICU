@@ -1,6 +1,26 @@
 # 🏥 OpenICU — Emergency Care Access Network
 
-**OpenICU** is a cinematic, high-impact emergency healthcare platform designed to solve the critical "last-mile" problem in ICU bed availability. Built for speed, privacy, and reliability, it connects patients to the nearest available ICU beds and ambulances in seconds.
+**OpenICU** is an emergency healthcare access platform focused on helping users quickly find and request ICU beds or ambulance support. The MVP is built for Bengaluru, with hospital bed availability, hospital details, emergency bed reservation requests, ambulance dispatch flows, payments, and audit logs.
+
+Users can book a bed by entering urgency, medical situation, patient location, optional reports, and completing a payment to reserve the bed. They can also request an ambulance by choosing the emergency type, pickup location, destination, and ambulance type. The long-term vision is a pan-India real-time critical-care access network. 
+
+Here's the OpenICU User Workflow (8 steps):
+
+1. Land on the Platform User visits OpenICU and sees the live emergency network dashboard — real-time ICU bed counts, ambulance status, and recent activity across Bengaluru.
+
+2. Create an Account User clicks "Sign In" → switches to "Sign Up" → enters name, email, phone, and password. Platform immediately requests location permission to enable proximity-based services.
+
+3. Browse the Live Network User scrolls to see available hospitals on the interactive map, with real-time ICU bed counts, ratings, and emergency status badges (Live / Verified / Stale).
+
+4. Select a Hospital User clicks on any hospital card to open the full profile — departments, facilities, bed availability, location map, and contact options.
+
+5. Start a Bed Reservation User clicks "Reserve Bed" → enters medical situation, urgency level, and type of bed needed (ICU, ventilator, etc.).
+
+6. Get AI Recommendations The platform's AI engine analyzes the patient's condition and location to recommend the top matching hospitals ranked by fit, availability, and distance.
+
+7. Confirm Location User confirms their pickup location via live GPS or manual address entry, with an interactive map pin for precision.
+
+8. Complete Payment User pays the ₹10,000 emergency deposit via Stripe (card/UPI). On success, a 4-hour reservation is locked in with a unique booking code — hospital is instantly notified.
 
 ![OpenICU Hero](https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1200&q=80)
 
