@@ -1,0 +1,4135 @@
+{
+  "metadata": {
+    "title": "Bengaluru Urban District - Hospital Directory",
+    "source": "https://bengaluruurban.nic.in/en/public-utility-category/hospitals/",
+    "scraped_date": "2026-05-13",
+    "total_hospitals": 50,
+    "district": "Bengaluru Urban",
+    "state": "Karnataka",
+    "country": "India",
+    "notes": "Primary data from Government of Karnataka NIC portal. Enriched with cross-referenced details from official hospital websites, Practo, MyUpChar, HexaHealth, Wikipedia, and other verified public sources."
+  },
+  "hospitals": [
+    {
+      "id": 1,
+      "name": "Bangalore Baptist Hospital",
+      "short_name": "BBH",
+      "category": "Private",
+      "type": "Multispecialty Teaching Hospital",
+      "established": 1973,
+      "founder": "Dr. Jasper McPhail",
+      "accreditation": [
+        "NABH",
+        "NABL"
+      ],
+      "address": {
+        "full": "Bellary Road, Vinayakanagar, Hebbal, Bengaluru, Karnataka 560024",
+        "area": "Hebbal",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560024",
+        "landmark": "Opp University of Agricultural Sciences, Near Hebbal Flyover",
+        "coordinates": {
+          "lat": 13.0353,
+          "lng": 77.59
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-23330321",
+          "080-22024552"
+        ],
+        "emergency": [
+          "080-22024700",
+          "080-23437971"
+        ],
+        "mobile": "+91-9448496602",
+        "fax": [
+          "+91-80-23437970",
+          "+91-80-23337817"
+        ],
+        "email": [
+          "info@bbh.org.in",
+          "bbh@bbh.org.in"
+        ],
+        "website": "https://www.bbh.org.in"
+      },
+      "capacity": {
+        "total_beds": 450,
+        "icu_beds": 43,
+        "icu_types": [
+          "Medical ICU (adult critical care)",
+          "Cardiac ICU (post-operative & step-down)",
+          "NICU (Neonatal Intensive Care)",
+          "PICU (Pediatric Intensive Care)"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat, 10:00 AM - 5:00 PM",
+        "emergency": "24x7",
+        "icu_visiting": "5:00 PM"
+      },
+      "departments": [
+        "Anaesthesiology",
+        "Bariatrics",
+        "Bone Marrow Transplant",
+        "Cardiology",
+        "Clinical Immunology & Rheumatology",
+        "Cosmetology",
+        "Critical Care (ICU)",
+        "Dentistry",
+        "Dermatology",
+        "Diabetology",
+        "Emergency Medicine",
+        "Endocrinology",
+        "ENT",
+        "Gastroenterology",
+        "General Surgery",
+        "Hematology",
+        "Internal Medicine",
+        "Nephrology",
+        "Neurology",
+        "Neurosurgery",
+        "Obstetrics & Gynaecology",
+        "Oncology",
+        "Ophthalmology",
+        "Orthopedics",
+        "Palliative Care",
+        "Pediatrics",
+        "Physical Medicine",
+        "Physiotherapy",
+        "Pulmonology",
+        "Radiology",
+        "Urology"
+      ],
+      "facilities": [
+        "Cafeteria",
+        "ICU",
+        "Parking",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "Blood Bank",
+        "Online Appointment Booking",
+        "Bone Marrow Transplant Unit",
+        "50-bed Hospice (Devanahalli)",
+        "Community Outreach Programs"
+      ],
+      "staff": {
+        "doctors": 350,
+        "total_healthcare_professionals": 2000
+      },
+      "insurance_partners": [
+        "Bajaj Allianz",
+        "Cholamandalam MS",
+        "Future Generali",
+        "HDFC ERGO",
+        "ICICI Lombard",
+        "ICICI Prudential",
+        "Iffco Tokio",
+        "MAX Bupa",
+        "Reliance General",
+        "Star Health",
+        "Tata AIA",
+        "Universal Sompo"
+      ],
+      "bed_booking_info": "Call emergency/helpline at 080-22024700 or mobile +91-9448496602. Bed availability managed by ward nurses; OPD/casualty staff liaise with ward staff for real-time availability.",
+      "source_url": "https://bengaluruurban.nic.in/en/public-utility/bangalore-baptist-hospital/"
+    },
+    {
+      "id": 2,
+      "name": "Bowring & Lady Curzon Hospital",
+      "short_name": "BLCH",
+      "category": "Public / Government",
+      "type": "Teaching Hospital (Tertiary Care)",
+      "established": 1868,
+      "founder": "Mr. Lewin Benthon Bowring (Commissioner of Mysore)",
+      "accreditation": [],
+      "address": {
+        "full": "Lady Curzon Road, Shivaji Nagar, Tasker Town, Bengaluru, Karnataka 560001",
+        "area": "Shivaji Nagar",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560001",
+        "landmark": "Near Shivajinagar Bus Stand",
+        "coordinates": {
+          "lat": 12.985,
+          "lng": 77.6044
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-25591362",
+          "080-25327712"
+        ],
+        "emergency": [
+          "080-25591362"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://sabvmcri.karnataka.gov.in/"
+      },
+      "capacity": {
+        "total_beds": 300,
+        "icu_beds": 14,
+        "icu_types": [
+          "General ICU"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat, 9:00 AM - 4:00 PM",
+        "emergency": "24x7",
+        "icu_visiting": "4:00 PM - 6:00 PM"
+      },
+      "departments": [
+        "Anaesthesiology",
+        "Anatomy",
+        "Biochemistry",
+        "Cardiology",
+        "Cardiothoracic Surgery",
+        "Dermatology",
+        "ENT",
+        "Gastroenterology",
+        "General Medicine",
+        "General Surgery",
+        "Microbiology",
+        "Neurology",
+        "Neurosurgery",
+        "Obstetrics & Gynaecology",
+        "Ophthalmology",
+        "Orthopedics",
+        "Paediatrics",
+        "Pathology",
+        "Pharmacology",
+        "Physiology",
+        "Plastic Surgery",
+        "Psychiatry",
+        "Pulmonology",
+        "Radiation Therapy"
+      ],
+      "facilities": [
+        "ICU",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "X-Ray",
+        "Ambulance Service",
+        "Blood Bank",
+        "OPD",
+        "Emergency Services"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Ayushman Bharat - Arogya Karnataka"
+      ],
+      "bed_booking_info": "Contact hospital directly at 080-25591362. Being a government hospital, beds are allotted on first-come-first-served basis via casualty or OPD referral. Affiliated with Sri Atal Bihari Vajpayee Medical College and Research Institute.",
+      "source_url": "https://bengaluruurban.nic.in/en/public-utility/bowringhospital/"
+    },
+    {
+      "id": 3,
+      "name": "Central Leprosorium Hospital",
+      "short_name": null,
+      "category": "Public / Government",
+      "type": "Specialized Hospital (Leprosy Treatment)",
+      "established": null,
+      "founder": null,
+      "accreditation": [],
+      "address": {
+        "full": "1st Cross, Magadi Road, Bangalore - 560023, Near Binny Mill, Bengaluru",
+        "area": "Magadi Road",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560023",
+        "landmark": "Near Binny Mill",
+        "coordinates": {
+          "lat": 12.97,
+          "lng": 77.55
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-23350239"
+        ],
+        "emergency": [
+          "080-23350239"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": null
+      },
+      "capacity": {
+        "total_beds": null,
+        "icu_beds": null,
+        "icu_types": []
+      },
+      "timings": {
+        "opd": "Mon-Sat",
+        "emergency": "Available",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Leprosy Treatment",
+        "Dermatology",
+        "General Medicine",
+        "Physiotherapy"
+      ],
+      "facilities": [
+        "OPD",
+        "Pharmacy",
+        "Rehabilitation Services"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [],
+      "bed_booking_info": "Contact hospital at 080-23350239 for bed availability and admission.",
+      "source_url": "https://bengaluruurban.nic.in/en/public-utility/central-leprosorium-hospital/"
+    },
+    {
+      "id": 4,
+      "name": "ESI Hospital Rajajinagar",
+      "short_name": "ESI Hospital",
+      "category": "Public / Government",
+      "type": "Government Hospital (ESI Scheme)",
+      "established": null,
+      "founder": null,
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "8/3, E Block, I Block, I Stage, Rajajinagar, Bengaluru, Karnataka 560010",
+        "area": "Rajajinagar",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560010",
+        "landmark": "Rajajinagar Industrial Area",
+        "coordinates": {
+          "lat": 12.99,
+          "lng": 77.553
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-23324112"
+        ],
+        "emergency": [
+          "080-23324112"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": null
+      },
+      "capacity": {
+        "total_beds": null,
+        "icu_beds": null,
+        "icu_types": []
+      },
+      "timings": {
+        "opd": "Mon-Sat",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "General Medicine",
+        "General Surgery",
+        "Pediatrics",
+        "Obstetrics & Gynaecology",
+        "Dermatology",
+        "Orthopedics",
+        "Psychiatry"
+      ],
+      "facilities": [
+        "Ambulance Service",
+        "Diagnostic Lab",
+        "Pharmacy",
+        "OPD",
+        "Emergency Services"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Employee State Insurance (ESI) Scheme"
+      ],
+      "bed_booking_info": "Available for ESI-insured employees and dependents. Contact 080-23324112 for bed availability.",
+      "source_url": "https://bengaluruurban.nic.in/en/public-utility-category/hospitals/"
+    },
+    {
+      "id": 5,
+      "name": "Jayanagar General Hospital",
+      "short_name": "GHJ",
+      "category": "Public / Government",
+      "type": "District General Hospital",
+      "established": null,
+      "founder": null,
+      "accreditation": [],
+      "address": {
+        "full": "Bannerghatta Main Rd, Phase 3, Jayanagara 9th Block, Jayanagar 9th Block, Bengaluru, Karnataka 560069",
+        "area": "Jayanagar 9th Block",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560069",
+        "landmark": "On Bannerghatta Main Road",
+        "coordinates": {
+          "lat": 12.925,
+          "lng": 77.593
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-26534600"
+        ],
+        "emergency": [
+          "080-26534600"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://ghj.karnataka.gov.in/english"
+      },
+      "capacity": {
+        "total_beds": null,
+        "icu_beds": null,
+        "icu_types": [
+          "General ICU"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat, 9:00 AM - 4:00 PM",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "General Medicine",
+        "General Surgery",
+        "Obstetrics & Gynaecology",
+        "Orthopedics",
+        "Pediatrics",
+        "ENT",
+        "Ophthalmology",
+        "Dermatology",
+        "Psychiatry",
+        "Anaesthesiology",
+        "Radiology",
+        "Dental",
+        "Blood Bank",
+        "Pathology"
+      ],
+      "facilities": [
+        "ICU",
+        "Blood Bank",
+        "Radiology",
+        "Pharmacy",
+        "OPD",
+        "Emergency Services",
+        "Diagnostic Lab"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Ayushman Bharat - Arogya Karnataka"
+      ],
+      "bed_booking_info": "Contact 080-26534600. Government hospital — beds allocated through casualty or OPD referral on availability basis.",
+      "source_url": "https://bengaluruurban.nic.in/en/public-utility-category/hospitals/"
+    },
+    {
+      "id": 6,
+      "name": "K.C. General Hospital",
+      "short_name": "KCGH",
+      "category": "Public / Government",
+      "type": "Multi-Specialty Government Hospital",
+      "established": null,
+      "founder": null,
+      "accreditation": [],
+      "address": {
+        "full": "#89, 5th Cross Road, Behind Police Station, Malleswaram, Bengaluru, Karnataka 560003",
+        "area": "Malleswaram",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560003",
+        "landmark": "Behind Malleswaram Police Station",
+        "coordinates": {
+          "lat": 13.003,
+          "lng": 77.57
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-23324112"
+        ],
+        "emergency": [
+          "080-23324112"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": null
+      },
+      "capacity": {
+        "total_beds": null,
+        "icu_beds": null,
+        "icu_types": [
+          "General ICU"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat, 9:00 AM - 4:00 PM",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "General Medicine",
+        "General Surgery",
+        "Obstetrics & Gynaecology",
+        "Orthopedics",
+        "Pediatrics",
+        "ENT",
+        "Ophthalmology",
+        "Dermatology",
+        "Radiology",
+        "Dental",
+        "Pathology",
+        "Anaesthesiology"
+      ],
+      "facilities": [
+        "ICU",
+        "Pharmacy",
+        "OPD",
+        "Emergency Services",
+        "Diagnostic Lab",
+        "X-Ray",
+        "Blood Bank"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Ayushman Bharat - Arogya Karnataka"
+      ],
+      "bed_booking_info": "Contact hospital at 080-23324112. Government hospital — walk-in or referral-based admission.",
+      "source_url": "https://bengaluruurban.nic.in/en/public-utility/k-c-general-hospital/"
+    },
+    {
+      "id": 7,
+      "name": "Indira Gandhi Institute of Child Health",
+      "short_name": "IGICH",
+      "category": "Public / Government",
+      "type": "Specialized Pediatric Hospital",
+      "established": null,
+      "founder": null,
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "Dr M H Mariagowda Road, Near Bangalore Dairy, Bengaluru, Karnataka 560029",
+        "area": "Sudhama Nagar (Hosur Road area)",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560029",
+        "landmark": "Near Bangalore Dairy",
+        "coordinates": {
+          "lat": 12.943,
+          "lng": 77.585
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-26094000"
+        ],
+        "emergency": [
+          "080-26094000"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": null
+      },
+      "capacity": {
+        "total_beds": null,
+        "icu_beds": null,
+        "icu_types": [
+          "NICU (Neonatal Intensive Care)",
+          "PICU (Pediatric Intensive Care)"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat, 9:00 AM - 4:00 PM",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Neonatology",
+        "Pediatrics",
+        "Pediatric Surgery",
+        "Pediatric Orthopedics",
+        "Pediatric Neurology",
+        "Pediatric Cardiology",
+        "Pediatric Hematology",
+        "Pediatric Oncology"
+      ],
+      "facilities": [
+        "Ambulance Service",
+        "Diagnostic Lab",
+        "Pharmacy",
+        "NICU",
+        "PICU",
+        "Emergency Services",
+        "Blood Bank"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Ayushman Bharat - Arogya Karnataka"
+      ],
+      "bed_booking_info": "Contact 080-26094000 for pediatric bed availability. Referral from PHC or direct walk-in to casualty for emergencies.",
+      "source_url": "https://bengaluruurban.nic.in/en/public-utility-category/hospitals/"
+    },
+    {
+      "id": 8,
+      "name": "Mallige Medical Centre",
+      "short_name": null,
+      "category": "Private",
+      "type": "Multi-Specialty Hospital",
+      "established": null,
+      "founder": null,
+      "accreditation": [],
+      "address": {
+        "full": "No.31/32, Crescent Road, Bangalore - 560001, Near Shivananda Circle",
+        "area": "Crescent Road",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560001",
+        "landmark": "Near Shivananda Circle",
+        "coordinates": {
+          "lat": 12.988,
+          "lng": 77.587
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-22203333"
+        ],
+        "emergency": [
+          "080-22203333"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": null
+      },
+      "capacity": {
+        "total_beds": null,
+        "icu_beds": null,
+        "icu_types": []
+      },
+      "timings": {
+        "opd": "Mon-Sat",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "General Medicine",
+        "General Surgery",
+        "Orthopedics",
+        "Neurology",
+        "Neurosurgery",
+        "Cardiology",
+        "Urology"
+      ],
+      "facilities": [
+        "ICU",
+        "Pharmacy",
+        "OPD",
+        "Emergency Services",
+        "Diagnostic Lab"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [],
+      "bed_booking_info": "Contact hospital at 080-22203333 for bed reservation and availability.",
+      "source_url": "https://bengaluruurban.nic.in/en/public-utility-category/hospitals/"
+    },
+    {
+      "id": 9,
+      "name": "Mallya Hospital (now Vydehi Superspeciality Hospital - VSH)",
+      "short_name": "VSH (formerly Mallya)",
+      "category": "Private",
+      "type": "Multispecialty Superspeciality Hospital",
+      "established": 1991,
+      "founder": null,
+      "accreditation": [
+        "NABH",
+        "ISO 9001:2008"
+      ],
+      "address": {
+        "full": "No.2, Vittal Mallya Road, Ashok Nagar, Bengaluru, Karnataka 560001",
+        "area": "Ashok Nagar",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560001",
+        "landmark": "Opposite Kanteerava Stadium",
+        "coordinates": {
+          "lat": 12.9716,
+          "lng": 77.5946
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-22211011",
+          "080-68697979"
+        ],
+        "emergency": [
+          "18602080208"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://vshhospital.com/"
+      },
+      "capacity": {
+        "total_beds": 500,
+        "icu_beds": null,
+        "icu_types": [
+          "Medical ICU",
+          "Cardiac ICU",
+          "Surgical ICU"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat, 9:00 AM - 8:00 PM",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Cardiology",
+        "Interventional Cardiology (TAVR)",
+        "Cardiac Surgery",
+        "Dentistry",
+        "Dermatology",
+        "Diabetology",
+        "Emergency Medicine",
+        "Endocrinology",
+        "ENT",
+        "Gastroenterology",
+        "General Medicine",
+        "General Surgery",
+        "Nephrology",
+        "Neurology",
+        "Neurosurgery",
+        "Obstetrics & Gynaecology",
+        "Oncology",
+        "Ophthalmology",
+        "Orthopedics",
+        "Paediatrics",
+        "Physiotherapy",
+        "Plastic Surgery",
+        "Pulmonology",
+        "Radiology",
+        "Stroke Management",
+        "Trauma Care",
+        "Urology",
+        "Aesthetics",
+        "Orthodontics",
+        "Genetic Profiling",
+        "Advanced Wound Care (Hyperbaric Chamber)"
+      ],
+      "facilities": [
+        "ICU",
+        "Operation Theatres",
+        "Diagnostic Services",
+        "Imaging Services",
+        "Dialysis",
+        "Blood Bank",
+        "Physiotherapy",
+        "24/7 Emergency Services",
+        "Pharmacy",
+        "Cafeteria",
+        "Parking",
+        "Wi-Fi",
+        "Prayer Room",
+        "Ambulance Services",
+        "Insurance Desk",
+        "Hyperbaric Chamber"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Multiple TPA partners accepted — check with hospital"
+      ],
+      "bed_booking_info": "Call toll-free 18602080208 or phone 080-68697979 for bed availability and reservations. Online booking available via website.",
+      "source_url": "https://bengaluruurban.nic.in/en/public-utility/mallya-hospital/"
+    },
+    {
+      "id": 10,
+      "name": "Manipal Hospital (Old Airport Road)",
+      "short_name": "Manipal Hospital",
+      "category": "Private",
+      "type": "Multispecialty Tertiary Care Hospital",
+      "established": null,
+      "founder": null,
+      "accreditation": [
+        "NABH",
+        "JCI"
+      ],
+      "address": {
+        "full": "98, HAL Airport Road, Bangalore - 560017",
+        "area": "HAL Airport Road",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560017",
+        "landmark": "Near Old Airport",
+        "coordinates": {
+          "lat": 12.9592,
+          "lng": 77.6474
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-25268901"
+        ],
+        "emergency": [
+          "080-25268901"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [
+          "info@manipalhospitals.com"
+        ],
+        "website": "https://www.manipalhospitals.com"
+      },
+      "capacity": {
+        "total_beds": null,
+        "icu_beds": null,
+        "icu_types": [
+          "Medical ICU",
+          "Surgical ICU",
+          "Cardiac ICU",
+          "NICU",
+          "PICU"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Cardiology",
+        "Cardiac Surgery",
+        "Oncology",
+        "Neurology",
+        "Neurosurgery",
+        "Orthopedics",
+        "Gastroenterology",
+        "Nephrology",
+        "Urology",
+        "Pulmonology",
+        "General Medicine",
+        "General Surgery",
+        "Obstetrics & Gynaecology",
+        "Paediatrics",
+        "ENT",
+        "Ophthalmology",
+        "Dermatology",
+        "Psychiatry",
+        "Plastic Surgery",
+        "Emergency Medicine",
+        "Organ Transplant",
+        "Radiology",
+        "Pathology"
+      ],
+      "facilities": [
+        "ICU",
+        "Operation Theatres",
+        "Diagnostic Lab",
+        "Imaging Services",
+        "Blood Bank",
+        "Pharmacy",
+        "Ambulance Services",
+        "Cafeteria",
+        "24/7 Emergency Services",
+        "Organ Transplant Unit",
+        "Online Booking"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Multiple national and international insurance partners"
+      ],
+      "bed_booking_info": "Contact 080-25268901 or visit manipalhospitals.com for bed availability and online appointment booking.",
+      "source_url": "https://bengaluruurban.nic.in/en/public-utility/manipal-hospital/"
+    },
+    {
+      "id": 11,
+      "name": "Sagar Hospitals (Jayanagar)",
+      "short_name": "Sagar Hospitals",
+      "category": "Private",
+      "type": "Multispecialty Hospital",
+      "established": null,
+      "founder": null,
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "#44/54, 30th Cross, Tilaknagar, Jayanagar Extension, Bangalore - 560041",
+        "area": "Jayanagar Extension / Tilaknagar",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560041",
+        "landmark": "Jayanagar Extension",
+        "coordinates": {
+          "lat": 12.926,
+          "lng": 77.583
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-42888888"
+        ],
+        "emergency": [
+          "080-42888888"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [
+          "infojnr@sagarhospitals.in"
+        ],
+        "website": "https://www.sagarhospitals.in"
+      },
+      "capacity": {
+        "total_beds": null,
+        "icu_beds": null,
+        "icu_types": [
+          "Medical ICU",
+          "Surgical ICU"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Cardiology",
+        "Cardiac Surgery",
+        "General Medicine",
+        "General Surgery",
+        "Neurology",
+        "Neurosurgery",
+        "Orthopedics",
+        "Gastroenterology",
+        "Nephrology",
+        "Urology",
+        "Oncology",
+        "Pulmonology",
+        "Obstetrics & Gynaecology",
+        "Paediatrics",
+        "ENT",
+        "Ophthalmology",
+        "Dermatology",
+        "Emergency Medicine"
+      ],
+      "facilities": [
+        "ICU",
+        "Operation Theatres",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "Blood Bank",
+        "Ambulance Services",
+        "24/7 Emergency Services",
+        "Cafeteria"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [],
+      "bed_booking_info": "Call 080-42888888 for bed availability and reservations.",
+      "source_url": "https://bengaluruurban.nic.in/en/public-utility/sagar-hospitals/"
+    },
+    {
+      "id": 12,
+      "name": "St. Martha's Hospital",
+      "short_name": "St. Martha's",
+      "category": "Private",
+      "type": "Multispecialty Hospital",
+      "established": null,
+      "founder": null,
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "5, Nrupathunga Road, RBI Colony, Sampangi Rama Nagar, Bengaluru, Karnataka 560001",
+        "area": "Nrupathunga Road",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560001",
+        "landmark": "Near RBI Colony",
+        "coordinates": {
+          "lat": 12.978,
+          "lng": 77.592
+        }
+      },
+      "contact": {
+        "phone": [
+          "18602080208"
+        ],
+        "emergency": [
+          "18602080208"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": null
+      },
+      "capacity": {
+        "total_beds": null,
+        "icu_beds": null,
+        "icu_types": [
+          "Medical ICU",
+          "Cardiac ICU"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Cardiology",
+        "General Medicine",
+        "General Surgery",
+        "Orthopedics",
+        "Obstetrics & Gynaecology",
+        "Paediatrics",
+        "ENT",
+        "Ophthalmology",
+        "Dermatology",
+        "Neurology",
+        "Urology",
+        "Nephrology"
+      ],
+      "facilities": [
+        "ICU",
+        "Cardiac Care",
+        "Operation Theatres",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "Blood Bank",
+        "Emergency Services"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [],
+      "bed_booking_info": "Contact toll-free 18602080208 for bed enquiries and reservations.",
+      "source_url": "https://bengaluruurban.nic.in/en/public-utility-category/hospitals/page/2/"
+    },
+    {
+      "id": 13,
+      "name": "NIMHANS (National Institute of Mental Health and Neurosciences)",
+      "short_name": "NIMHANS",
+      "category": "Public / Government (Autonomous Institute of National Importance)",
+      "type": "Specialized Institute (Mental Health & Neurosciences)",
+      "established": 1925,
+      "founder": null,
+      "accreditation": [
+        "Institute of National Importance (by Act of Parliament)"
+      ],
+      "address": {
+        "full": "Hosur Road, Lalbagh, Bengaluru, Karnataka 560029",
+        "area": "Hosur Road / Lalbagh",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560029",
+        "landmark": "Near Lalbagh Botanical Garden",
+        "coordinates": {
+          "lat": 12.9432,
+          "lng": 77.587
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-26995000",
+          "080-26994000"
+        ],
+        "emergency": [
+          "080-26995000"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://nimhans.ac.in"
+      },
+      "capacity": {
+        "total_beds": null,
+        "icu_beds": null,
+        "icu_types": [
+          "Neuro ICU",
+          "General ICU"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat, 8:00 AM - 4:00 PM",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Psychiatry",
+        "Neurology",
+        "Neurosurgery",
+        "Clinical Psychology",
+        "Psychiatric Social Work",
+        "Neuroimaging & Interventional Radiology",
+        "Neurochemistry",
+        "Neuropathology",
+        "Psychopharmacology",
+        "Child & Adolescent Psychiatry",
+        "Geriatric Psychiatry",
+        "De-Addiction Centre",
+        "Epidemiology",
+        "Biostatistics"
+      ],
+      "facilities": [
+        "ICU",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "Neuroimaging Centre",
+        "De-Addiction Centre",
+        "Telemedicine",
+        "Research Labs",
+        "OPD",
+        "Emergency Services",
+        "Rehabilitation Centre"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Ayushman Bharat",
+        "CGHS"
+      ],
+      "bed_booking_info": "Contact 080-26995000. Registration through OPD counter. Admission via OPD referral or emergency. Internationally recognized for mental health and neuroscience research.",
+      "source_url": "https://bengaluruurban.nic.in/en/public-utility-category/hospitals/page/2/"
+    },
+    {
+      "id": 14,
+      "name": "Cloudnine Hospital",
+      "short_name": "Cloudnine",
+      "category": "Private",
+      "type": "Specialized Hospital (Maternity & Pediatric)",
+      "established": null,
+      "founder": null,
+      "accreditation": [],
+      "address": {
+        "full": "No 4, Mother Theresa Rd, Near Life Style, Vivek Nagar Post, Bengaluru, Karnataka 560047",
+        "area": "Vivek Nagar",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560047",
+        "landmark": "Near Lifestyle Store",
+        "coordinates": {
+          "lat": 12.956,
+          "lng": 77.62
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-40164433"
+        ],
+        "emergency": [
+          "080-40164433"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.cloudninecare.com"
+      },
+      "capacity": {
+        "total_beds": null,
+        "icu_beds": null,
+        "icu_types": [
+          "NICU (Neonatal Intensive Care)"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Obstetrics & Gynaecology",
+        "Neonatology",
+        "Pediatrics",
+        "Fertility & IVF",
+        "Fetal Medicine",
+        "Lactation Support",
+        "Nutrition & Dietetics"
+      ],
+      "facilities": [
+        "NICU",
+        "Operation Theatres",
+        "Diagnostic Lab",
+        "Pharmacy",
+        "Ultrasound",
+        "Emergency Services",
+        "Online Booking"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [],
+      "bed_booking_info": "Call 080-40164433 or book online at cloudninecare.com. Multiple branches across Bengaluru.",
+      "source_url": "https://bengaluruurban.nic.in/en/public-utility-category/hospitals/page/2/"
+    },
+    {
+      "id": 15,
+      "name": "Vanivilas Women and Children Hospital",
+      "short_name": "Vanivilas Hospital",
+      "category": "Public / Government",
+      "type": "Specialized Government Hospital (Women & Children)",
+      "established": null,
+      "founder": null,
+      "accreditation": [],
+      "address": {
+        "full": "Krishnarajendra Road, Bangalore, India",
+        "area": "Fort / City Market area",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560002",
+        "landmark": "Near City Market / Fort Road",
+        "coordinates": {
+          "lat": 12.961,
+          "lng": 77.576
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-26705206"
+        ],
+        "emergency": [
+          "080-26705206"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": null
+      },
+      "capacity": {
+        "total_beds": null,
+        "icu_beds": null,
+        "icu_types": [
+          "NICU (Neonatal Intensive Care)"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat, 9:00 AM - 4:00 PM",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Obstetrics & Gynaecology",
+        "Pediatrics",
+        "Neonatology",
+        "Maternity Services",
+        "High-Risk Pregnancy Care"
+      ],
+      "facilities": [
+        "NICU",
+        "Labour Ward",
+        "Operation Theatres",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "Ultrasound",
+        "Blood Bank",
+        "Emergency Services"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Ayushman Bharat - Arogya Karnataka"
+      ],
+      "bed_booking_info": "Contact 080-26705206. Affiliated with Bangalore Medical College. Handles high-risk pregnancies and pediatric emergencies. Walk-in or referral-based.",
+      "source_url": "https://bengaluruurban.nic.in/en/public-utility/vanivilas-women-and-children-hospital/"
+    },
+    {
+      "id": 16,
+      "name": "Victoria Hospital (Shantaveri Gopala Gowda Hospital)",
+      "short_name": "Victoria Hospital",
+      "category": "Public / Government",
+      "type": "Multispecialty Teaching Hospital (Tertiary Care)",
+      "established": 1900,
+      "founder": "Maharaja Shri Krishna Raja Wadiyar IV",
+      "accreditation": [],
+      "address": {
+        "full": "Near City Market, Fort Road, Halsurpete, Nagarathpete, Bengaluru, Karnataka 560002",
+        "area": "Fort / City Market",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560002",
+        "landmark": "Near City Market, Fort Road",
+        "coordinates": {
+          "lat": 12.963,
+          "lng": 77.578
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-26701150"
+        ],
+        "emergency": [
+          "080-26701150"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://victoriahospital.karnataka.gov.in"
+      },
+      "capacity": {
+        "total_beds": 1000,
+        "icu_beds": 20,
+        "icu_types": [
+          "General ICU",
+          "Trauma ICU"
+        ],
+        "burns_ward_beds": 50,
+        "upcoming_expansion": "New 1000-bed super-specialty facility with 30 ICUs (announced 2019, est. Rs 680 crore)"
+      },
+      "timings": {
+        "opd": "Mon-Sat, 9:00 AM - 4:00 PM",
+        "emergency": "24x7",
+        "icu_visiting": "4:00 PM - 6:00 PM"
+      },
+      "departments": [
+        "General Medicine",
+        "General Surgery",
+        "Orthopedics",
+        "Dermatology",
+        "Psychiatry",
+        "Radiology",
+        "Radiotherapy",
+        "Physiotherapy",
+        "Forensic Medicine",
+        "Plastic Surgery",
+        "Neurology",
+        "Neurosurgery",
+        "Gastroenterology (Surgical & Medical)",
+        "Cardiology",
+        "Urology",
+        "Ophthalmology",
+        "ENT",
+        "Obstetrics & Gynaecology",
+        "Paediatrics",
+        "Anaesthesiology",
+        "Burns & Trauma Care",
+        "Pathology",
+        "TB & Chest Diseases",
+        "Community Medicine"
+      ],
+      "facilities": [
+        "ICU (20-bed with ventilators)",
+        "Trauma & Emergency Care Centre (200-bed)",
+        "Burns Ward (50-bed)",
+        "24-hour Blood Bank",
+        "Centralized Lab (Infosys grant)",
+        "CT Scan",
+        "MRI",
+        "X-Ray",
+        "Ultrasound",
+        "ECG",
+        "Emergency Operation Theatre",
+        "Pharmacy (free meds for low-income patients)",
+        "Ambulance Services",
+        "OPD"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Ayushman Bharat - Arogya Karnataka",
+        "CGHS"
+      ],
+      "bed_booking_info": "Contact 080-26701150. Largest government hospital in Bengaluru (1000+ beds). Walk-in to casualty or OPD referral. Free medications for economically disadvantaged patients. Affiliated with Bangalore Medical College and Research Institute (BMCRI).",
+      "source_url": "https://bengaluruurban.nic.in/en/public-utility/victoria-hospital/"
+    },
+    {
+      "id": 17,
+      "name": "Apollo Hospital (Bannerghatta Road)",
+      "short_name": "Apollo Bannerghatta",
+      "category": "Private",
+      "type": "Multispecialty Tertiary Care Hospital",
+      "established": 1983,
+      "founder": "Dr. Prathap C Reddy",
+      "accreditation": [
+        "JCI",
+        "NABH"
+      ],
+      "address": {
+        "full": "154/11, Bannerghatta Rd, Opp IIM, Panduranga Nagar, Bengaluru, Karnataka 560076",
+        "area": "Bannerghatta Road",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560076",
+        "landmark": "Opposite IIM Bangalore",
+        "coordinates": {
+          "lat": 12.917,
+          "lng": 77.6
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-26304050",
+          "080-26304051"
+        ],
+        "emergency": [
+          "080-26304050"
+        ],
+        "mobile": null,
+        "fax": [
+          "+91-80-41463151"
+        ],
+        "email": [
+          "apollobangalore@apollohospitals.com"
+        ],
+        "website": "https://www.apollohospitals.com/hospitals/apollo-hospitals-bannerghatta-road"
+      },
+      "capacity": {
+        "total_beds": 300,
+        "icu_beds": null,
+        "icu_types": [
+          "Medical ICU",
+          "Surgical ICU",
+          "Cardiac ICU",
+          "NICU",
+          "PICU"
+        ]
+      },
+      "timings": {
+        "opd": "All days, 10:00 AM - 8:00 PM",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Cardiology",
+        "Cardiac Surgery",
+        "Oncology",
+        "Neurology",
+        "Neurosurgery",
+        "Orthopedics",
+        "Gastroenterology",
+        "Nephrology",
+        "Urology",
+        "Pulmonology",
+        "General Medicine",
+        "General Surgery",
+        "Obstetrics & Gynaecology",
+        "Paediatrics",
+        "ENT",
+        "Ophthalmology",
+        "Dermatology",
+        "Plastic Surgery",
+        "Emergency Medicine",
+        "Organ Transplant",
+        "Bariatrics",
+        "Colorectal Surgery",
+        "Robotic Surgery",
+        "Radiology"
+      ],
+      "facilities": [
+        "ICU",
+        "3 Tesla MRI",
+        "64-slice CT Angiogram",
+        "Robotic Surgery OT",
+        "Thallium Laser",
+        "Holmium Laser",
+        "Digital X-Ray",
+        "Blood Bank",
+        "Pharmacy",
+        "Ambulance",
+        "Cafeteria",
+        "24/7 Emergency"
+      ],
+      "staff": {
+        "doctors": 100,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Multiple national and international insurance partners",
+        "CGHS",
+        "Ayushman Bharat"
+      ],
+      "bed_booking_info": "Call 080-26304050 or book via Apollo 24|7 app. International patient desk available.",
+      "source_url": "https://www.apollohospitals.com/hospitals/apollo-hospitals-bannerghatta-road"
+    },
+    {
+      "id": 18,
+      "name": "Narayana Health City (Narayana Hrudayalaya)",
+      "short_name": "Narayana Health",
+      "category": "Private",
+      "type": "Multispecialty Super Specialty Hospital",
+      "established": 2000,
+      "founder": "Dr. Devi Prasad Shetty",
+      "accreditation": [
+        "NABH",
+        "NABL"
+      ],
+      "address": {
+        "full": "#258/A, Bommasandra, Hosur Road, Anekal Taluk, Bangalore - 560099",
+        "area": "Bommasandra / Hosur Road",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560099",
+        "landmark": "Narayana Health City Campus, Hosur Road",
+        "coordinates": {
+          "lat": 12.809,
+          "lng": 77.671
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-66660000"
+        ],
+        "emergency": [
+          "09902821128"
+        ],
+        "mobile": "+91-9902821128",
+        "fax": null,
+        "email": [],
+        "website": "https://www.narayanahealth.org"
+      },
+      "capacity": {
+        "total_beds": 6000,
+        "icu_beds": null,
+        "icu_types": [
+          "Cardiac ICU",
+          "Medical ICU",
+          "Surgical ICU",
+          "NICU (6 units)",
+          "Neuro ICU"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat, 8:00 AM - 8:00 PM; Sun 8:00 AM - 12:00 PM",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Cardiology",
+        "Cardiac Surgery",
+        "Cancer Care",
+        "Neurology",
+        "Neurosurgery",
+        "Orthopedics",
+        "Gastroenterology",
+        "Nephrology",
+        "Urology",
+        "Organ Transplant",
+        "Pulmonology",
+        "Hematology",
+        "Pediatrics",
+        "Neonatology",
+        "Ophthalmology (Narayana Nethralaya)",
+        "ENT",
+        "Dermatology",
+        "General Medicine",
+        "General Surgery",
+        "Obstetrics & Gynaecology",
+        "Dialysis",
+        "Emergency Medicine"
+      ],
+      "facilities": [
+        "ICU",
+        "19-bed Dialysis Unit",
+        "6 NICU units",
+        "Cath Lab",
+        "Blood Bank",
+        "Pharmacy",
+        "Ambulance",
+        "Diagnostic Lab",
+        "MRI",
+        "CT Scan",
+        "Cafeteria",
+        "International Patient Services"
+      ],
+      "staff": {
+        "doctors": 30,
+        "total_healthcare_professionals": 200
+      },
+      "insurance_partners": [
+        "National Insurance",
+        "Oriental Insurance",
+        "United India Insurance",
+        "Star Health",
+        "Multiple TPAs"
+      ],
+      "bed_booking_info": "Call 080-66660000 or emergency mobile 09902821128. Known for affordable cardiac surgery.",
+      "source_url": "https://www.narayanahealth.org"
+    },
+    {
+      "id": 19,
+      "name": "Fortis Hospital (Cunningham Road)",
+      "short_name": "Fortis Cunningham Rd",
+      "category": "Private",
+      "type": "Multispecialty Tertiary Care Hospital",
+      "established": 1990,
+      "founder": null,
+      "accreditation": [
+        "NABH",
+        "NABL"
+      ],
+      "address": {
+        "full": "14, Cunningham Road, Bengaluru, Karnataka 560052",
+        "area": "Cunningham Road",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560052",
+        "landmark": "Near Sigma Central Mall",
+        "coordinates": {
+          "lat": 12.987,
+          "lng": 77.592
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-66214444"
+        ],
+        "emergency": [
+          "080-66214444"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.fortishealthcare.com/location/fortis-hospital-cg-road-bangalore"
+      },
+      "capacity": {
+        "total_beds": 119,
+        "icu_beds": 36,
+        "icu_types": [
+          "SICU (12-bed)",
+          "CCU (19-bed)",
+          "HDU (8-bed)"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Cardiology",
+        "Cardiac Surgery",
+        "Interventional Cardiology",
+        "Neurology",
+        "Neurosurgery",
+        "Urology",
+        "Orthopedics",
+        "Gastroenterology",
+        "Oncology",
+        "Emergency Medicine",
+        "Critical Care",
+        "General Medicine",
+        "General Surgery",
+        "Minimal Access Surgery",
+        "Robotic Surgery",
+        "ENT",
+        "Pulmonology",
+        "Nephrology",
+        "Dermatology",
+        "Psychiatry"
+      ],
+      "facilities": [
+        "ICU (36 beds)",
+        "HDU (8 beds)",
+        "2 Cath Labs",
+        "3 Cardiac OTs",
+        "5 Operation Theatres",
+        "Blood Bank",
+        "24hr Pharmacy",
+        "Endoscopy Unit",
+        "Ambulance",
+        "Diagnostic Lab",
+        "Physiotherapy"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Multiple TPA partners"
+      ],
+      "bed_booking_info": "Call 080-66214444. Pioneer in cardiac sciences in Bangalore since 1990.",
+      "source_url": "https://www.fortishealthcare.com/location/fortis-hospital-cg-road-bangalore"
+    },
+    {
+      "id": 20,
+      "name": "Aster CMI Hospital",
+      "short_name": "Aster CMI",
+      "category": "Private",
+      "type": "Multispecialty Hospital",
+      "established": 2014,
+      "founder": null,
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "#43/2, New Airport Road, NH-7, Sahakara Nagar, Bengaluru, Karnataka 560092",
+        "area": "Sahakara Nagar / Hebbal",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560092",
+        "landmark": "New Airport Road, near Hebbal",
+        "coordinates": {
+          "lat": 13.058,
+          "lng": 77.592
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-43420100"
+        ],
+        "emergency": [
+          "080-43420100"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.asterhospitals.in/aster-cmi-hospital-bangalore"
+      },
+      "capacity": {
+        "total_beds": 500,
+        "icu_beds": null,
+        "icu_types": [
+          "Medical ICU",
+          "Surgical ICU",
+          "Cardiac ICU",
+          "NICU",
+          "PICU"
+        ]
+      },
+      "timings": {
+        "opd": "All days",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Cardiology",
+        "Cardiac Surgery",
+        "Neurology",
+        "Neurosurgery",
+        "Orthopedics",
+        "Oncology",
+        "Gastroenterology",
+        "Nephrology",
+        "Urology",
+        "Pulmonology",
+        "Liver Transplant",
+        "Renal Transplant",
+        "General Medicine",
+        "General Surgery",
+        "Obstetrics & Gynaecology",
+        "Paediatrics",
+        "ENT",
+        "Dermatology",
+        "Emergency Medicine"
+      ],
+      "facilities": [
+        "ICU",
+        "Operation Theatres",
+        "Blood Bank",
+        "Pharmacy",
+        "Ambulance",
+        "Diagnostic Lab",
+        "MRI",
+        "CT Scan",
+        "Cafeteria",
+        "24/7 Emergency"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Multiple TPA partners"
+      ],
+      "bed_booking_info": "Call 080-43420100 for bed availability.",
+      "source_url": "https://www.asterhospitals.in/aster-cmi-hospital-bangalore"
+    },
+    {
+      "id": 21,
+      "name": "Columbia Asia Hospital (Hebbal)",
+      "short_name": "Columbia Asia Hebbal",
+      "category": "Private",
+      "type": "Multispecialty Hospital",
+      "established": null,
+      "founder": null,
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "Kirloskar Business Park, Bellary Road, Hebbal, Bengaluru, Karnataka 560024",
+        "area": "Hebbal",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560024",
+        "landmark": "Kirloskar Business Park, Bellary Road",
+        "coordinates": {
+          "lat": 13.04,
+          "lng": 77.587
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-71226600"
+        ],
+        "emergency": [
+          "080-71226600"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.columbiaindiahospitals.com"
+      },
+      "capacity": {
+        "total_beds": 150,
+        "icu_beds": null,
+        "icu_types": [
+          "Medical ICU",
+          "NICU"
+        ]
+      },
+      "timings": {
+        "opd": "All days",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "General Medicine",
+        "General Surgery",
+        "Orthopedics",
+        "Obstetrics & Gynaecology",
+        "Paediatrics",
+        "ENT",
+        "Cardiology",
+        "Pulmonology",
+        "Urology",
+        "Gastroenterology",
+        "Dermatology",
+        "Emergency Medicine"
+      ],
+      "facilities": [
+        "ICU",
+        "Operation Theatres",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "Blood Bank",
+        "Ambulance",
+        "24/7 Emergency"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Multiple TPA partners"
+      ],
+      "bed_booking_info": "Call 080-71226600 for bed availability.",
+      "source_url": "https://www.columbiaindiahospitals.com"
+    },
+    {
+      "id": 22,
+      "name": "MS Ramaiah Memorial Hospital",
+      "short_name": "Ramaiah Hospital",
+      "category": "Private (Trust)",
+      "type": "Multispecialty Teaching Hospital",
+      "established": 1979,
+      "founder": null,
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "MSR Nagar, MSRIT Post, New BEL Road, Bengaluru, Karnataka 560054",
+        "area": "Mathikere / New BEL Road",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560054",
+        "landmark": "MSRIT Post, New BEL Road",
+        "coordinates": {
+          "lat": 13.029,
+          "lng": 77.565
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-23606666"
+        ],
+        "emergency": [
+          "080-23606666"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.msramaiah.com"
+      },
+      "capacity": {
+        "total_beds": 800,
+        "icu_beds": null,
+        "icu_types": [
+          "Medical ICU",
+          "Surgical ICU",
+          "Cardiac ICU",
+          "NICU"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat, 9:00 AM - 5:00 PM",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "General Medicine",
+        "General Surgery",
+        "Cardiology",
+        "Neurology",
+        "Neurosurgery",
+        "Orthopedics",
+        "Gastroenterology",
+        "Nephrology",
+        "Urology",
+        "Pulmonology",
+        "Oncology",
+        "Obstetrics & Gynaecology",
+        "Paediatrics",
+        "ENT",
+        "Ophthalmology",
+        "Dermatology",
+        "Psychiatry",
+        "Radiology",
+        "Emergency Medicine",
+        "Dental"
+      ],
+      "facilities": [
+        "ICU",
+        "Blood Bank",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "MRI",
+        "CT Scan",
+        "Ambulance",
+        "24/7 Emergency",
+        "Operation Theatres",
+        "Cafeteria"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "CGHS",
+        "Multiple TPA partners"
+      ],
+      "bed_booking_info": "Call 080-23606666. Teaching hospital affiliated with Ramaiah Medical College.",
+      "source_url": "https://www.msramaiah.com"
+    },
+    {
+      "id": 23,
+      "name": "Jayadeva Institute of Cardiovascular Sciences",
+      "short_name": "Jayadeva Hospital",
+      "category": "Public / Government",
+      "type": "Specialized Government Hospital (Cardiovascular)",
+      "established": 1962,
+      "founder": null,
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "9th Block, Jayanagar, Bannerghatta Road, Bengaluru, Karnataka 560069",
+        "area": "Jayanagar 9th Block",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560069",
+        "landmark": "Bannerghatta Road, Jayanagar",
+        "coordinates": {
+          "lat": 12.925,
+          "lng": 77.596
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-26534706",
+          "080-22977600"
+        ],
+        "emergency": [
+          "080-26534706"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.jayadevacardiology.com"
+      },
+      "capacity": {
+        "total_beds": 600,
+        "icu_beds": null,
+        "icu_types": [
+          "Cardiac ICU",
+          "Post-op Cardiac ICU",
+          "Coronary Care Unit"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat, 8:00 AM - 4:00 PM",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Cardiology",
+        "Cardiac Surgery",
+        "Interventional Cardiology",
+        "Electrophysiology",
+        "Pediatric Cardiology",
+        "Cardiac Anesthesia",
+        "Cardiac Rehabilitation"
+      ],
+      "facilities": [
+        "Cardiac ICU",
+        "Cath Labs",
+        "Cardiac OTs",
+        "Blood Bank",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "ECG",
+        "Echo",
+        "Ambulance",
+        "24/7 Emergency"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Ayushman Bharat - Arogya Karnataka",
+        "CGHS"
+      ],
+      "bed_booking_info": "Call 080-26534706. Premier government cardiac hospital — highly affordable cardiac surgeries.",
+      "source_url": "https://www.jayadevacardiology.com"
+    },
+    {
+      "id": 24,
+      "name": "Kidwai Memorial Institute of Oncology",
+      "short_name": "Kidwai Cancer Hospital",
+      "category": "Public / Government",
+      "type": "Specialized Government Hospital (Cancer)",
+      "established": 1973,
+      "founder": null,
+      "accreditation": [],
+      "address": {
+        "full": "Dr M H Marigowda Road, Hombegowda Nagar, Bengaluru, Karnataka 560029",
+        "area": "Hosur Road / Hombegowda Nagar",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560029",
+        "landmark": "Near Dairy Circle",
+        "coordinates": {
+          "lat": 12.94,
+          "lng": 77.585
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-26094000"
+        ],
+        "emergency": [
+          "080-26094000"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://kidwai.karnataka.gov.in"
+      },
+      "capacity": {
+        "total_beds": 650,
+        "icu_beds": null,
+        "icu_types": [
+          "Oncology ICU",
+          "Post-surgical ICU"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat, 9:00 AM - 4:00 PM",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Medical Oncology",
+        "Surgical Oncology",
+        "Radiation Oncology",
+        "Gynecologic Oncology",
+        "Pediatric Oncology",
+        "Head & Neck Oncology",
+        "Palliative Care",
+        "Pathology",
+        "Radiology"
+      ],
+      "facilities": [
+        "ICU",
+        "Radiation Therapy",
+        "Chemotherapy Unit",
+        "Blood Bank",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "MRI",
+        "CT Scan",
+        "PET Scan",
+        "Operation Theatres",
+        "Palliative Care Unit"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Ayushman Bharat - Arogya Karnataka"
+      ],
+      "bed_booking_info": "Call 080-26094000. Government cancer hospital — subsidized treatment for cancer patients.",
+      "source_url": "https://kidwai.karnataka.gov.in"
+    },
+    {
+      "id": 25,
+      "name": "Sparsh Hospital (Infantry Road)",
+      "short_name": "SPARSH Infantry Road",
+      "category": "Private",
+      "type": "Multispecialty Hospital (Orthopedic Focus)",
+      "established": null,
+      "founder": null,
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "#146, Infantry Road, Opp Police Commissioners Office, Bengaluru, Karnataka 560001",
+        "area": "Infantry Road",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560001",
+        "landmark": "Opposite Police Commissioners Office",
+        "coordinates": {
+          "lat": 12.983,
+          "lng": 77.596
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-68888888"
+        ],
+        "emergency": [
+          "080-68888888"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.sparshhospital.com"
+      },
+      "capacity": {
+        "total_beds": null,
+        "icu_beds": null,
+        "icu_types": [
+          "General ICU",
+          "Surgical ICU"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Orthopedics",
+        "Spine Surgery",
+        "Joint Replacement",
+        "Arthroscopy",
+        "Sports Medicine",
+        "Trauma Care",
+        "Neurosurgery",
+        "General Surgery",
+        "Internal Medicine",
+        "Emergency Medicine"
+      ],
+      "facilities": [
+        "ICU",
+        "Operation Theatres",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "Physiotherapy",
+        "Ambulance",
+        "24/7 Emergency"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Multiple TPA partners"
+      ],
+      "bed_booking_info": "Contact via sparshhospital.com or phone.",
+      "source_url": "https://www.sparshhospital.com"
+    },
+    {
+      "id": 26,
+      "name": "HCG Cancer Centre (Healthcare Global)",
+      "short_name": "HCG",
+      "category": "Private",
+      "type": "Specialized Hospital (Cancer)",
+      "established": null,
+      "founder": null,
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "#8, P Kalinga Rao Road, Sampangiram Nagar, Bengaluru, Karnataka 560027",
+        "area": "Sampangiram Nagar",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560027",
+        "landmark": "Near South End Circle",
+        "coordinates": {
+          "lat": 12.948,
+          "lng": 77.586
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-40206000"
+        ],
+        "emergency": [
+          "080-40206000"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.hcgoncology.com"
+      },
+      "capacity": {
+        "total_beds": null,
+        "icu_beds": null,
+        "icu_types": [
+          "Oncology ICU"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Medical Oncology",
+        "Surgical Oncology",
+        "Radiation Oncology",
+        "Hemato-Oncology",
+        "Pediatric Oncology",
+        "Nuclear Medicine",
+        "Palliative Care"
+      ],
+      "facilities": [
+        "ICU",
+        "Radiation Therapy (CyberKnife, IMRT, IGRT)",
+        "Chemotherapy",
+        "PET-CT",
+        "Blood Bank",
+        "Pharmacy",
+        "Diagnostic Lab"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Multiple TPA partners"
+      ],
+      "bed_booking_info": "Call 080-40206000. Specialized cancer treatment center.",
+      "source_url": "https://www.hcgoncology.com"
+    },
+    {
+      "id": 27,
+      "name": "Sakra World Hospital",
+      "short_name": "Sakra Hospital",
+      "category": "Private",
+      "type": "Multispecialty Hospital",
+      "established": 2014,
+      "founder": null,
+      "accreditation": [
+        "NABH",
+        "JCI"
+      ],
+      "address": {
+        "full": "SY NO.52/2 & 52/3, Devarabeesanahalli, Varthur Hobli, Bengaluru, Karnataka 560103",
+        "area": "Bellandur / Outer Ring Road",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560103",
+        "landmark": "Near Bellandur, Outer Ring Road",
+        "coordinates": {
+          "lat": 12.93,
+          "lng": 77.683
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-49694969"
+        ],
+        "emergency": [
+          "080-49694969"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.sakraworldhospital.com"
+      },
+      "capacity": {
+        "total_beds": 350,
+        "icu_beds": null,
+        "icu_types": [
+          "Medical ICU",
+          "Surgical ICU",
+          "NICU"
+        ]
+      },
+      "timings": {
+        "opd": "All days",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Cardiology",
+        "Neurology",
+        "Neurosurgery",
+        "Orthopedics",
+        "Spine Surgery",
+        "Oncology",
+        "Gastroenterology",
+        "Nephrology",
+        "Urology",
+        "Pulmonology",
+        "General Medicine",
+        "General Surgery",
+        "Obstetrics & Gynaecology",
+        "Paediatrics",
+        "ENT",
+        "Emergency Medicine"
+      ],
+      "facilities": [
+        "ICU",
+        "Operation Theatres",
+        "Blood Bank",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "MRI",
+        "CT Scan",
+        "Ambulance",
+        "Cafeteria",
+        "24/7 Emergency",
+        "Japanese-standard care"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Multiple TPA partners"
+      ],
+      "bed_booking_info": "Call 080-49694969. Indo-Japanese hospital known for quality care.",
+      "source_url": "https://www.sakraworldhospital.com"
+    },
+    {
+      "id": 28,
+      "name": "BGS Gleneagles Global Hospital",
+      "short_name": "BGS Global",
+      "category": "Private",
+      "type": "Multispecialty Super Specialty Hospital",
+      "established": null,
+      "founder": null,
+      "accreditation": [
+        "NABH",
+        "JCI"
+      ],
+      "address": {
+        "full": "67, Uttarahalli Main Road, Kengeri, Bengaluru, Karnataka 560060",
+        "area": "Kengeri",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560060",
+        "landmark": "Uttarahalli Main Road",
+        "coordinates": {
+          "lat": 12.91,
+          "lng": 77.52
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-26625555"
+        ],
+        "emergency": [
+          "080-26625555"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.bgshospital.com"
+      },
+      "capacity": {
+        "total_beds": 500,
+        "icu_beds": null,
+        "icu_types": [
+          "Medical ICU",
+          "Surgical ICU",
+          "Cardiac ICU",
+          "NICU"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Cardiology",
+        "Cardiac Surgery",
+        "Neurology",
+        "Neurosurgery",
+        "Orthopedics",
+        "Liver Transplant",
+        "Renal Transplant",
+        "Gastroenterology",
+        "Nephrology",
+        "Urology",
+        "Oncology",
+        "Pulmonology",
+        "General Medicine",
+        "General Surgery",
+        "Obstetrics & Gynaecology",
+        "Paediatrics",
+        "ENT",
+        "Emergency Medicine"
+      ],
+      "facilities": [
+        "ICU",
+        "Organ Transplant Unit",
+        "Operation Theatres",
+        "Blood Bank",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "MRI",
+        "CT Scan",
+        "Ambulance",
+        "Cafeteria"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Multiple TPA partners"
+      ],
+      "bed_booking_info": "Call 080-26625555. Known for organ transplant programs.",
+      "source_url": "https://www.bgshospital.com"
+    },
+    {
+      "id": 29,
+      "name": "Narayana Multispeciality Hospital (HSR Layout)",
+      "short_name": "Narayana HSR",
+      "category": "Private",
+      "type": "Multispecialty Hospital",
+      "established": null,
+      "founder": "Dr. Devi Prasad Shetty (Narayana Health group)",
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "HSR Layout, Bengaluru, Karnataka",
+        "area": "HSR Layout",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560102",
+        "landmark": "HSR Layout",
+        "coordinates": {
+          "lat": 12.9116,
+          "lng": 77.6389
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-71222222"
+        ],
+        "emergency": [
+          "080-71222222"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.narayanahealth.org"
+      },
+      "capacity": {
+        "total_beds": 101,
+        "icu_beds": null,
+        "icu_types": [
+          "Medical ICU",
+          "Cardiac ICU"
+        ]
+      },
+      "timings": {
+        "opd": "All days",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Cardiology",
+        "Cardiac Surgery",
+        "General Medicine",
+        "General Surgery",
+        "Orthopedics",
+        "Gastroenterology",
+        "Nephrology",
+        "Urology",
+        "ENT",
+        "Obstetrics & Gynaecology",
+        "Paediatrics",
+        "Emergency Medicine"
+      ],
+      "facilities": [
+        "ICU",
+        "3 Operation Theatres",
+        "Cath Lab",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "Ambulance",
+        "24/7 Emergency"
+      ],
+      "staff": {
+        "doctors": 199,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Multiple TPA partners"
+      ],
+      "bed_booking_info": "Call 080-71222222. Short-stay surgical center with cath lab.",
+      "source_url": "https://www.narayanahealth.org"
+    },
+    {
+      "id": 30,
+      "name": "KIMS Hospital and Research Centre",
+      "short_name": "KIMS Bangalore",
+      "category": "Private",
+      "type": "Multispecialty Hospital",
+      "established": null,
+      "founder": null,
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "1/4, SC Road, K.R. Puram, Bengaluru, Karnataka 560036",
+        "area": "K.R. Puram",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560036",
+        "landmark": "K.R. Puram",
+        "coordinates": {
+          "lat": 13.005,
+          "lng": 77.697
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-18001084848"
+        ],
+        "emergency": [
+          "080-18001084848"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.kimsbangalore.com"
+      },
+      "capacity": {
+        "total_beds": null,
+        "icu_beds": null,
+        "icu_types": [
+          "Medical ICU",
+          "Surgical ICU"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Cardiology",
+        "Neurology",
+        "Orthopedics",
+        "Oncology",
+        "General Medicine",
+        "General Surgery",
+        "Obstetrics & Gynaecology",
+        "Paediatrics",
+        "Urology",
+        "ENT",
+        "Emergency Medicine"
+      ],
+      "facilities": [
+        "ICU",
+        "Operation Theatres",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "Blood Bank",
+        "Ambulance"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Ayushman Bharat"
+      ],
+      "bed_booking_info": "Call toll-free 18001084848.",
+      "source_url": "https://www.kimsbangalore.com"
+    },
+    {
+      "id": 31,
+      "name": "Aster RV Hospital",
+      "short_name": "Aster RV",
+      "category": "Private",
+      "type": "Multispecialty Hospital",
+      "established": null,
+      "founder": null,
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "CA-37, 24th Main, 1st Phase, JP Nagar, Bengaluru, Karnataka 560078",
+        "area": "JP Nagar",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560078",
+        "landmark": "JP Nagar 1st Phase",
+        "coordinates": {
+          "lat": 12.907,
+          "lng": 77.585
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-48015555"
+        ],
+        "emergency": [
+          "080-48015555"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.asterhospitals.in/aster-rv-hospital"
+      },
+      "capacity": {
+        "total_beds": 200,
+        "icu_beds": null,
+        "icu_types": [
+          "Medical ICU",
+          "Surgical ICU",
+          "NICU"
+        ]
+      },
+      "timings": {
+        "opd": "All days",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Cardiology",
+        "Neurology",
+        "Orthopedics",
+        "Gastroenterology",
+        "Nephrology",
+        "Urology",
+        "Oncology",
+        "General Medicine",
+        "General Surgery",
+        "Obstetrics & Gynaecology",
+        "Paediatrics",
+        "ENT",
+        "Emergency Medicine"
+      ],
+      "facilities": [
+        "ICU",
+        "Operation Theatres",
+        "Blood Bank",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "Ambulance",
+        "24/7 Emergency"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Multiple TPA partners"
+      ],
+      "bed_booking_info": "Call 080-48015555.",
+      "source_url": "https://www.asterhospitals.in/aster-rv-hospital"
+    },
+    {
+      "id": 32,
+      "name": "Aster Women and Children Hospital",
+      "short_name": "Aster W&C",
+      "category": "Private",
+      "type": "Specialized Hospital (Women & Children)",
+      "established": null,
+      "founder": null,
+      "accreditation": [],
+      "address": {
+        "full": "No.1, Ramaiah Layout, Old Airport Road, Bengaluru, Karnataka 560017",
+        "area": "Old Airport Road",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560017",
+        "landmark": "Old Airport Road",
+        "coordinates": {
+          "lat": 12.964,
+          "lng": 77.642
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-45060606"
+        ],
+        "emergency": [
+          "080-45060606"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.asterhospitals.in"
+      },
+      "capacity": {
+        "total_beds": null,
+        "icu_beds": null,
+        "icu_types": [
+          "NICU"
+        ]
+      },
+      "timings": {
+        "opd": "All days",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Obstetrics & Gynaecology",
+        "Neonatology",
+        "Pediatrics",
+        "Fertility & IVF",
+        "Fetal Medicine"
+      ],
+      "facilities": [
+        "NICU",
+        "Operation Theatres",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "24/7 Emergency"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [],
+      "bed_booking_info": "Call 080-45060606.",
+      "source_url": "https://www.asterhospitals.in"
+    },
+    {
+      "id": 33,
+      "name": "Hosmat Hospital",
+      "short_name": "HOSMAT",
+      "category": "Private",
+      "type": "Specialized Hospital (Orthopedics & Trauma)",
+      "established": 1987,
+      "founder": null,
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "45, Magrath Road, Off Richmond Road, Bengaluru, Karnataka 560025",
+        "area": "Richmond Road",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560025",
+        "landmark": "Off Richmond Road",
+        "coordinates": {
+          "lat": 12.965,
+          "lng": 77.605
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-25593796"
+        ],
+        "emergency": [
+          "080-25593796"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.hosmat.net"
+      },
+      "capacity": {
+        "total_beds": 200,
+        "icu_beds": null,
+        "icu_types": [
+          "Trauma ICU",
+          "Surgical ICU"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Orthopedics",
+        "Joint Replacement",
+        "Spine Surgery",
+        "Sports Medicine",
+        "Trauma Care",
+        "Arthroscopy",
+        "Hand Surgery",
+        "Physiotherapy",
+        "Emergency Medicine",
+        "General Medicine"
+      ],
+      "facilities": [
+        "ICU",
+        "Operation Theatres",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "Physiotherapy Centre",
+        "Ambulance",
+        "24/7 Emergency"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "CGHS",
+        "Multiple TPA partners"
+      ],
+      "bed_booking_info": "Call 080-25593796. Premier orthopedic and trauma hospital.",
+      "source_url": "https://www.hosmat.net"
+    },
+    {
+      "id": 34,
+      "name": "Vikram Hospital",
+      "short_name": "Vikram Hospital",
+      "category": "Private",
+      "type": "Multispecialty Hospital",
+      "established": null,
+      "founder": null,
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "71/1, Millers Road, Bengaluru, Karnataka 560052",
+        "area": "Millers Road",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560052",
+        "landmark": "Near Cantonment",
+        "coordinates": {
+          "lat": 12.993,
+          "lng": 77.59
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-25561100"
+        ],
+        "emergency": [
+          "080-25561100"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.vikramhospital.com"
+      },
+      "capacity": {
+        "total_beds": 200,
+        "icu_beds": null,
+        "icu_types": [
+          "Medical ICU",
+          "Surgical ICU"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Cardiology",
+        "Neurology",
+        "Orthopedics",
+        "General Medicine",
+        "General Surgery",
+        "Obstetrics & Gynaecology",
+        "Paediatrics",
+        "ENT",
+        "Emergency Medicine",
+        "Nephrology",
+        "Urology",
+        "Gastroenterology"
+      ],
+      "facilities": [
+        "ICU",
+        "Operation Theatres",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "Ambulance",
+        "24/7 Emergency"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Multiple TPA partners"
+      ],
+      "bed_booking_info": "Call 080-25561100.",
+      "source_url": "https://www.vikramhospital.com"
+    },
+    {
+      "id": 35,
+      "name": "Narayana Nethralaya (Eye Hospital)",
+      "short_name": "Narayana Nethralaya",
+      "category": "Private",
+      "type": "Specialized Hospital (Ophthalmology)",
+      "established": 1982,
+      "founder": "Dr. K. Bhujang Shetty",
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "121/C, Chord Road, 1st R Block, Rajajinagar, Bengaluru, Karnataka 560010",
+        "area": "Rajajinagar",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560010",
+        "landmark": "Chord Road, Rajajinagar",
+        "coordinates": {
+          "lat": 12.995,
+          "lng": 77.554
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-66121600"
+        ],
+        "emergency": [
+          "080-66121600"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.narayananethralaya.org"
+      },
+      "capacity": {
+        "total_beds": null,
+        "icu_beds": null,
+        "icu_types": []
+      },
+      "timings": {
+        "opd": "Mon-Sat, 8:30 AM - 5:30 PM",
+        "emergency": "Available",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Cataract Surgery",
+        "Cornea & Refractive Surgery",
+        "Glaucoma",
+        "Retina & Vitreous",
+        "Pediatric Ophthalmology",
+        "Oculoplasty",
+        "Neuro-Ophthalmology",
+        "Uvea"
+      ],
+      "facilities": [
+        "OPD",
+        "Operation Theatres",
+        "Diagnostic Lab",
+        "Laser Treatment",
+        "Pharmacy"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "CGHS",
+        "Multiple TPA partners"
+      ],
+      "bed_booking_info": "Call 080-66121600. Premier eye hospital with multiple branches.",
+      "source_url": "https://www.narayananethralaya.org"
+    },
+    {
+      "id": 36,
+      "name": "Mazumdar Shaw Medical Centre (Narayana Health)",
+      "short_name": "Mazumdar Shaw",
+      "category": "Private",
+      "type": "Multispecialty Cancer & Research Hospital",
+      "established": 2012,
+      "founder": null,
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "#258/A, Bommasandra, Hosur Road, Anekal Taluk, Bengaluru, Karnataka 560099",
+        "area": "Bommasandra / Hosur Road",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560099",
+        "landmark": "Within Narayana Health City campus",
+        "coordinates": {
+          "lat": 12.809,
+          "lng": 77.671
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-71222222"
+        ],
+        "emergency": [
+          "080-71222222"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.narayanahealth.org"
+      },
+      "capacity": {
+        "total_beds": 300,
+        "icu_beds": null,
+        "icu_types": [
+          "Oncology ICU",
+          "Medical ICU"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Medical Oncology",
+        "Surgical Oncology",
+        "Radiation Oncology",
+        "Hemato-Oncology",
+        "Bone Marrow Transplant",
+        "Nuclear Medicine",
+        "Palliative Care",
+        "General Medicine",
+        "General Surgery"
+      ],
+      "facilities": [
+        "ICU",
+        "Radiation Therapy",
+        "Chemotherapy",
+        "BMT Unit",
+        "PET-CT",
+        "Blood Bank",
+        "Pharmacy",
+        "Diagnostic Lab"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Multiple TPA partners"
+      ],
+      "bed_booking_info": "Call 080-71222222. Part of Narayana Health City campus.",
+      "source_url": "https://www.narayanahealth.org"
+    },
+    {
+      "id": 37,
+      "name": "St. John's Medical College Hospital",
+      "short_name": "St. John's Hospital",
+      "category": "Private (Trust)",
+      "type": "Multispecialty Teaching Hospital",
+      "established": 1963,
+      "founder": null,
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "Sarjapur Road, Koramangala, Bengaluru, Karnataka 560034",
+        "area": "Koramangala / Sarjapur Road",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560034",
+        "landmark": "Sarjapur Road",
+        "coordinates": {
+          "lat": 12.928,
+          "lng": 77.621
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-22065000",
+          "080-25530724"
+        ],
+        "emergency": [
+          "080-22065000"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.stjohns.in"
+      },
+      "capacity": {
+        "total_beds": 1200,
+        "icu_beds": null,
+        "icu_types": [
+          "Medical ICU",
+          "Surgical ICU",
+          "Cardiac ICU",
+          "NICU",
+          "PICU"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat, 8:00 AM - 5:00 PM",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "General Medicine",
+        "General Surgery",
+        "Cardiology",
+        "Neurology",
+        "Neurosurgery",
+        "Orthopedics",
+        "Oncology",
+        "Gastroenterology",
+        "Nephrology",
+        "Urology",
+        "Pulmonology",
+        "Obstetrics & Gynaecology",
+        "Paediatrics",
+        "ENT",
+        "Ophthalmology",
+        "Dermatology",
+        "Psychiatry",
+        "Emergency Medicine",
+        "Radiology",
+        "Pathology"
+      ],
+      "facilities": [
+        "ICU",
+        "Operation Theatres",
+        "Blood Bank",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "MRI",
+        "CT Scan",
+        "Ambulance",
+        "Cafeteria",
+        "24/7 Emergency"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "CGHS",
+        "Multiple TPA partners"
+      ],
+      "bed_booking_info": "Call 080-22065000. One of Bangalore's oldest and most reputed teaching hospitals.",
+      "source_url": "https://www.stjohns.in"
+    },
+    {
+      "id": 38,
+      "name": "Bangalore Medical College & Research Institute (BMCRI)",
+      "short_name": "BMCRI",
+      "category": "Public / Government",
+      "type": "Teaching Hospital & Research Institute",
+      "established": 1955,
+      "founder": null,
+      "accreditation": [],
+      "address": {
+        "full": "K.R. Road, Fort, Bengaluru, Karnataka 560002",
+        "area": "Fort / City Market",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560002",
+        "landmark": "Near Victoria Hospital, Fort Road",
+        "coordinates": {
+          "lat": 12.963,
+          "lng": 77.577
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-26701150"
+        ],
+        "emergency": [
+          "080-26701150"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://bmcri.karnataka.gov.in"
+      },
+      "capacity": {
+        "total_beds": null,
+        "icu_beds": null,
+        "icu_types": []
+      },
+      "timings": {
+        "opd": "Mon-Sat",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "All major medical and surgical departments — teaching institution affiliated with Victoria Hospital, Vanivilas Hospital, and Bowring Hospital"
+      ],
+      "facilities": [
+        "Teaching Hospital",
+        "Research Labs",
+        "Multiple affiliated hospitals"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Ayushman Bharat"
+      ],
+      "bed_booking_info": "BMCRI is the academic institution; patient care through affiliated hospitals (Victoria, Vanivilas, Bowring).",
+      "source_url": "https://bmcri.karnataka.gov.in"
+    },
+    {
+      "id": 39,
+      "name": "Sparsh Hospital (Yeshwanthpur)",
+      "short_name": "SPARSH Yeshwanthpur",
+      "category": "Private",
+      "type": "Multispecialty Super Specialty Hospital",
+      "established": null,
+      "founder": null,
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "#4/1, Tumkur Road, Next to RNS Motors, Yeshwanthpur, Bengaluru, Karnataka 560022",
+        "area": "Yeshwanthpur",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560022",
+        "landmark": "Next to RNS Motors, Tumkur Road",
+        "coordinates": {
+          "lat": 13.02,
+          "lng": 77.547
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-68888888"
+        ],
+        "emergency": [
+          "080-68888888"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.sparshhospital.com"
+      },
+      "capacity": {
+        "total_beds": 250,
+        "icu_beds": null,
+        "icu_types": [
+          "Medical ICU",
+          "Surgical ICU",
+          "Trauma ICU"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Orthopedics",
+        "Joint Replacement",
+        "Spine Surgery",
+        "Trauma Care",
+        "Neurology",
+        "Neurosurgery",
+        "Organ Transplant",
+        "General Medicine",
+        "General Surgery",
+        "Cardiology",
+        "Urology",
+        "Nephrology",
+        "ENT",
+        "Emergency Medicine"
+      ],
+      "facilities": [
+        "ICU",
+        "Operation Theatres",
+        "Organ Transplant Unit",
+        "Blood Bank",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "Physiotherapy",
+        "Ambulance",
+        "24/7 Emergency"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Multiple TPA partners"
+      ],
+      "bed_booking_info": "Call 080-68888888.",
+      "source_url": "https://www.sparshhospital.com"
+    },
+    {
+      "id": 40,
+      "name": "Fortis Hospital (Bannerghatta Road)",
+      "short_name": "Fortis Bannerghatta",
+      "category": "Private",
+      "type": "Multispecialty Hospital",
+      "established": null,
+      "founder": null,
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "154/9, Opposite IIM-B, Bannerghatta Road, Bengaluru, Karnataka 560076",
+        "area": "Bannerghatta Road",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560076",
+        "landmark": "Opposite IIM-B",
+        "coordinates": {
+          "lat": 12.918,
+          "lng": 77.601
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-66214444"
+        ],
+        "emergency": [
+          "080-66214444"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.fortishealthcare.com"
+      },
+      "capacity": {
+        "total_beds": 250,
+        "icu_beds": null,
+        "icu_types": [
+          "Medical ICU",
+          "Surgical ICU",
+          "NICU"
+        ]
+      },
+      "timings": {
+        "opd": "All days",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Cardiology",
+        "Neurology",
+        "Orthopedics",
+        "Oncology",
+        "Gastroenterology",
+        "Nephrology",
+        "Urology",
+        "General Medicine",
+        "General Surgery",
+        "Obstetrics & Gynaecology",
+        "Paediatrics",
+        "ENT",
+        "Emergency Medicine"
+      ],
+      "facilities": [
+        "ICU",
+        "Operation Theatres",
+        "Blood Bank",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "Ambulance",
+        "24/7 Emergency"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Multiple TPA partners"
+      ],
+      "bed_booking_info": "Call 080-66214444.",
+      "source_url": "https://www.fortishealthcare.com"
+    },
+    {
+      "id": 41,
+      "name": "Sankara Eye Hospital",
+      "short_name": "Sankara Eye",
+      "category": "Private (Trust)",
+      "type": "Specialized Hospital (Ophthalmology)",
+      "established": null,
+      "founder": null,
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "Kundalahalli Gate, Varthur Main Road, Bengaluru, Karnataka 560037",
+        "area": "Kundalahalli / Marathahalli",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560037",
+        "landmark": "Kundalahalli Gate",
+        "coordinates": {
+          "lat": 12.961,
+          "lng": 77.71
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-40500600"
+        ],
+        "emergency": [
+          "080-40500600"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.sankaraeye.com"
+      },
+      "capacity": {
+        "total_beds": null,
+        "icu_beds": null,
+        "icu_types": []
+      },
+      "timings": {
+        "opd": "Mon-Sat, 8:00 AM - 5:00 PM",
+        "emergency": "Available",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Cataract",
+        "Cornea",
+        "Glaucoma",
+        "Retina",
+        "Oculoplasty",
+        "Pediatric Ophthalmology",
+        "Refractive Surgery"
+      ],
+      "facilities": [
+        "OPD",
+        "Operation Theatres",
+        "Diagnostic Lab",
+        "Laser Treatment",
+        "Pharmacy"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Multiple TPA partners"
+      ],
+      "bed_booking_info": "Call 080-40500600.",
+      "source_url": "https://www.sankaraeye.com"
+    },
+    {
+      "id": 42,
+      "name": "Rajiv Gandhi Chest Disease Hospital",
+      "short_name": "Rajiv Gandhi Chest Hospital",
+      "category": "Public / Government",
+      "type": "Specialized Government Hospital (Chest & TB)",
+      "established": null,
+      "founder": null,
+      "accreditation": [],
+      "address": {
+        "full": "Near City Market, Bengaluru, Karnataka 560002",
+        "area": "City Market area",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560002",
+        "landmark": "Near City Market",
+        "coordinates": {
+          "lat": 12.964,
+          "lng": 77.577
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-26700000"
+        ],
+        "emergency": [
+          "080-26700000"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": null
+      },
+      "capacity": {
+        "total_beds": null,
+        "icu_beds": null,
+        "icu_types": []
+      },
+      "timings": {
+        "opd": "Mon-Sat",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Pulmonology",
+        "TB Treatment",
+        "Respiratory Medicine",
+        "General Medicine"
+      ],
+      "facilities": [
+        "OPD",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "X-Ray",
+        "TB Testing"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Ayushman Bharat - Arogya Karnataka"
+      ],
+      "bed_booking_info": "Contact 080-26700000. Specialized in chest diseases and TB.",
+      "source_url": null
+    },
+    {
+      "id": 43,
+      "name": "Epidemic Diseases Hospital",
+      "short_name": "Epidemic Hospital",
+      "category": "Public / Government",
+      "type": "Specialized Government Hospital (Infectious Diseases)",
+      "established": null,
+      "founder": null,
+      "accreditation": [],
+      "address": {
+        "full": "Chamrajpet, Bengaluru, Karnataka 560018",
+        "area": "Chamrajpet",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560018",
+        "landmark": "Chamrajpet",
+        "coordinates": {
+          "lat": 12.956,
+          "lng": 77.568
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-26700000"
+        ],
+        "emergency": [
+          "080-26700000"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": null
+      },
+      "capacity": {
+        "total_beds": null,
+        "icu_beds": null,
+        "icu_types": []
+      },
+      "timings": {
+        "opd": "Mon-Sat",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Infectious Disease Treatment",
+        "General Medicine",
+        "Isolation Wards"
+      ],
+      "facilities": [
+        "Isolation Wards",
+        "OPD",
+        "Pharmacy",
+        "Diagnostic Lab"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Ayushman Bharat - Arogya Karnataka"
+      ],
+      "bed_booking_info": "Contact 080-26700000. Handles epidemic and infectious disease cases.",
+      "source_url": null
+    },
+    {
+      "id": 44,
+      "name": "Aster Whitefield Hospital",
+      "short_name": "Aster Whitefield",
+      "category": "Private",
+      "type": "Multispecialty Hospital",
+      "established": null,
+      "founder": null,
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "Nerkundram, EPIP Area, Whitefield, Bengaluru, Karnataka 560066",
+        "area": "Whitefield",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560066",
+        "landmark": "EPIP Area, Whitefield",
+        "coordinates": {
+          "lat": 12.9698,
+          "lng": 77.75
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-45015555"
+        ],
+        "emergency": [
+          "080-45015555"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.asterhospitals.in"
+      },
+      "capacity": {
+        "total_beds": 200,
+        "icu_beds": null,
+        "icu_types": [
+          "Medical ICU",
+          "NICU"
+        ]
+      },
+      "timings": {
+        "opd": "All days",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Cardiology",
+        "Neurology",
+        "Orthopedics",
+        "General Medicine",
+        "General Surgery",
+        "Obstetrics & Gynaecology",
+        "Paediatrics",
+        "ENT",
+        "Emergency Medicine",
+        "Gastroenterology"
+      ],
+      "facilities": [
+        "ICU",
+        "Operation Theatres",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "Ambulance",
+        "24/7 Emergency"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Multiple TPA partners"
+      ],
+      "bed_booking_info": "Call 080-45015555.",
+      "source_url": "https://www.asterhospitals.in"
+    },
+    {
+      "id": 45,
+      "name": "Chinmaya Mission Hospital",
+      "short_name": "CMH",
+      "category": "Private (Trust)",
+      "type": "Multi-Specialty Hospital",
+      "established": null,
+      "founder": null,
+      "accreditation": [],
+      "address": {
+        "full": "CMH Road, Indiranagar 2nd Stage, Bengaluru, Karnataka 560038",
+        "area": "Indiranagar",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560038",
+        "landmark": "CMH Road, Indiranagar",
+        "coordinates": {
+          "lat": 12.978,
+          "lng": 77.64
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-25206962"
+        ],
+        "emergency": [
+          "080-25206962"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": null
+      },
+      "capacity": {
+        "total_beds": null,
+        "icu_beds": null,
+        "icu_types": []
+      },
+      "timings": {
+        "opd": "Mon-Sat",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "General Medicine",
+        "General Surgery",
+        "Obstetrics & Gynaecology",
+        "Paediatrics",
+        "Orthopedics",
+        "ENT",
+        "Ophthalmology"
+      ],
+      "facilities": [
+        "OPD",
+        "Operation Theatres",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "Emergency Services"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [],
+      "bed_booking_info": "Call 080-25206962.",
+      "source_url": null
+    },
+    {
+      "id": 46,
+      "name": "Columbia Asia Hospital (Yeshwanthpur)",
+      "short_name": "Columbia Asia Yeshwanthpur",
+      "category": "Private",
+      "type": "Multispecialty Referral Hospital",
+      "established": null,
+      "founder": null,
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "26/4, Brigade Gateway, Malleshwaram-Rajajinagar, Dr. Rajkumar Road, Bengaluru, Karnataka 560055",
+        "area": "Yeshwanthpur / Rajajinagar",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560055",
+        "landmark": "Brigade Gateway, Dr. Rajkumar Road",
+        "coordinates": {
+          "lat": 13.013,
+          "lng": 77.556
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-71226600"
+        ],
+        "emergency": [
+          "080-71226600"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.columbiaindiahospitals.com"
+      },
+      "capacity": {
+        "total_beds": 200,
+        "icu_beds": null,
+        "icu_types": [
+          "Medical ICU",
+          "NICU",
+          "PICU"
+        ]
+      },
+      "timings": {
+        "opd": "All days",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Cardiology",
+        "Neurology",
+        "Orthopedics",
+        "General Medicine",
+        "General Surgery",
+        "Obstetrics & Gynaecology",
+        "Paediatrics",
+        "ENT",
+        "Emergency Medicine",
+        "Gastroenterology",
+        "Urology",
+        "Nephrology"
+      ],
+      "facilities": [
+        "ICU",
+        "Operation Theatres",
+        "Blood Bank",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "Ambulance",
+        "Cafeteria",
+        "24/7 Emergency"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Multiple TPA partners"
+      ],
+      "bed_booking_info": "Call 080-71226600.",
+      "source_url": "https://www.columbiaindiahospitals.com"
+    },
+    {
+      "id": 47,
+      "name": "Ramaiah Advanced Learning Center Hospital (RGUHS)",
+      "short_name": "Ramaiah ALC",
+      "category": "Private (Trust)",
+      "type": "Teaching Hospital",
+      "established": null,
+      "founder": null,
+      "accreditation": [],
+      "address": {
+        "full": "New BEL Road, MSRIT Post, Bengaluru, Karnataka 560054",
+        "area": "New BEL Road",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560054",
+        "landmark": "Near MS Ramaiah campus",
+        "coordinates": {
+          "lat": 13.03,
+          "lng": 77.564
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-23606666"
+        ],
+        "emergency": [
+          "080-23606666"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.msramaiah.com"
+      },
+      "capacity": {
+        "total_beds": null,
+        "icu_beds": null,
+        "icu_types": []
+      },
+      "timings": {
+        "opd": "Mon-Sat",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Advanced Surgical Specialties",
+        "Cardiac Surgery",
+        "Neurosurgery",
+        "Organ Transplant"
+      ],
+      "facilities": [
+        "ICU",
+        "Operation Theatres",
+        "Diagnostic Lab",
+        "Pharmacy"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [],
+      "bed_booking_info": "Call 080-23606666.",
+      "source_url": "https://www.msramaiah.com"
+    },
+    {
+      "id": 48,
+      "name": "People Tree Hospital",
+      "short_name": "People Tree",
+      "category": "Private",
+      "type": "Multispecialty Hospital",
+      "established": null,
+      "founder": null,
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "#2, Yeshwanthpur, Tumkur Road, Bengaluru, Karnataka 560022",
+        "area": "Yeshwanthpur",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560022",
+        "landmark": "Tumkur Road",
+        "coordinates": {
+          "lat": 13.021,
+          "lng": 77.545
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-22945100"
+        ],
+        "emergency": [
+          "080-22945100"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.peopletreehospitals.com"
+      },
+      "capacity": {
+        "total_beds": 350,
+        "icu_beds": null,
+        "icu_types": [
+          "Medical ICU",
+          "Surgical ICU",
+          "NICU"
+        ]
+      },
+      "timings": {
+        "opd": "All days",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Cardiology",
+        "Neurology",
+        "Orthopedics",
+        "General Medicine",
+        "General Surgery",
+        "Obstetrics & Gynaecology",
+        "Paediatrics",
+        "ENT",
+        "Emergency Medicine",
+        "Oncology"
+      ],
+      "facilities": [
+        "ICU",
+        "Operation Theatres",
+        "Blood Bank",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "Ambulance",
+        "24/7 Emergency"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Multiple TPA partners"
+      ],
+      "bed_booking_info": "Call 080-22945100.",
+      "source_url": "https://www.peopletreehospitals.com"
+    },
+    {
+      "id": 49,
+      "name": "Motherhood Hospital (Indiranagar)",
+      "short_name": "Motherhood Indiranagar",
+      "category": "Private",
+      "type": "Specialized Hospital (Women & Children)",
+      "established": null,
+      "founder": null,
+      "accreditation": [],
+      "address": {
+        "full": "#324, CMH Road, Indiranagar 1st Stage, Bengaluru, Karnataka 560038",
+        "area": "Indiranagar",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560038",
+        "landmark": "CMH Road, Indiranagar",
+        "coordinates": {
+          "lat": 12.978,
+          "lng": 77.639
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-46700000"
+        ],
+        "emergency": [
+          "080-46700000"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.motherhoodindia.com"
+      },
+      "capacity": {
+        "total_beds": null,
+        "icu_beds": null,
+        "icu_types": [
+          "NICU"
+        ]
+      },
+      "timings": {
+        "opd": "All days",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Obstetrics & Gynaecology",
+        "Neonatology",
+        "Pediatrics",
+        "Fertility & IVF",
+        "Fetal Medicine"
+      ],
+      "facilities": [
+        "NICU",
+        "Operation Theatres",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "Ultrasound",
+        "24/7 Emergency"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [],
+      "bed_booking_info": "Call 080-46700000 or book online at motherhoodindia.com.",
+      "source_url": "https://www.motherhoodindia.com"
+    },
+    {
+      "id": 50,
+      "name": "Sparsh Hospital (RR Nagar)",
+      "short_name": "SPARSH RR Nagar",
+      "category": "Private",
+      "type": "Multispecialty Hospital (Multi-organ Transplant)",
+      "established": null,
+      "founder": null,
+      "accreditation": [
+        "NABH"
+      ],
+      "address": {
+        "full": "Ideal Homes HBCS Layout, 8, 4th Cross Rd, RR Nagar, Bengaluru, Karnataka 560098",
+        "area": "Rajarajeshwari Nagar",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "pincode": "560098",
+        "landmark": "Near Rainbow Bridge, RR Nagar",
+        "coordinates": {
+          "lat": 12.928,
+          "lng": 77.51
+        }
+      },
+      "contact": {
+        "phone": [
+          "080-68888888"
+        ],
+        "emergency": [
+          "080-68888888"
+        ],
+        "mobile": null,
+        "fax": null,
+        "email": [],
+        "website": "https://www.sparshhospital.com"
+      },
+      "capacity": {
+        "total_beds": 400,
+        "icu_beds": null,
+        "icu_types": [
+          "Medical ICU",
+          "Surgical ICU",
+          "Transplant ICU",
+          "NICU"
+        ]
+      },
+      "timings": {
+        "opd": "Mon-Sat",
+        "emergency": "24x7",
+        "icu_visiting": null
+      },
+      "departments": [
+        "Orthopedics",
+        "Organ Transplant",
+        "Joint Replacement",
+        "Spine Surgery",
+        "Neurology",
+        "Neurosurgery",
+        "Cardiology",
+        "General Medicine",
+        "General Surgery",
+        "Obstetrics & Gynaecology",
+        "Paediatrics",
+        "ENT",
+        "Emergency Medicine",
+        "Urology",
+        "Nephrology",
+        "Gastroenterology"
+      ],
+      "facilities": [
+        "ICU",
+        "Multi-organ Transplant Unit",
+        "Operation Theatres",
+        "Blood Bank",
+        "Pharmacy",
+        "Diagnostic Lab",
+        "Physiotherapy",
+        "Ambulance",
+        "24/7 Emergency"
+      ],
+      "staff": {
+        "doctors": null,
+        "total_healthcare_professionals": null
+      },
+      "insurance_partners": [
+        "Multiple TPA partners"
+      ],
+      "bed_booking_info": "Call 080-68888888. 400 beds, tertiary care with multi-organ transplant capability.",
+      "source_url": "https://www.sparshhospital.com"
+    }
+  ]
+}
